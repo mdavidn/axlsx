@@ -21,7 +21,7 @@ appreciation for the gem, please don't hesitate to make a donation.
 
 **License**: MIT License
 
-**Latest Version**: 2.0.1
+**Latest Version**: 2.1.0
 
 **Ruby Version**: 1.9.2, 1.9.3, 2.0.0
 
@@ -168,6 +168,7 @@ This gem has 100% test coverage using test/unit. To execute tests for this gem, 
   - Added Cell#name so you you can quickly create a defined name for a single cell in your workbook.
   - Added full book view and sheet state management. This means you can specify how the workbook renders as well as manage sheet visibility.
   - Added smoothing management for line charts series
+  - Fix CVE-2017-5946
 - **September.12.13**:2.0.1
   - Unpinned rubyzip version
 - **September.12.13**:2.0.0
