@@ -21,7 +21,7 @@ appreciation for the gem, please don't hesitate to make a donation.
 
 **License**: MIT License
 
-**Latest Version**: 2.0.1
+**Latest Version**: 2.0.2
 
 **Ruby Version**: 1.9.2, 1.9.3, 2.0.0
 
@@ -165,6 +165,8 @@ This gem has 100% test coverage using test/unit. To execute tests for this gem, 
 #Change log
 ---------
 
+- **June.12.17**:2.0.2
+  - Fix CVE-2017-5946
 - **September.12.13**:2.0.1
   - Unpinned rubyzip version
 - **September.12.13**:2.0.0
